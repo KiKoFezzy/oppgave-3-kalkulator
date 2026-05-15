@@ -1,0 +1,6 @@
+simpel kalkulator
+hent første nummer
+hent utregnings-metode (feilmld om man bruker noe annet enn: +, -, *, /)
+hent andre nummer 
+kalkuler svar (+, - og x, har ingen feilmeldinger, / feilmelding om en prøver å dele på 0)
+lever svar, eller feilmelding om en prøver å dele og/eller gange på 0
