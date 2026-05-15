@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("C# Simple Calculator");
+        Console.WriteLine("C# Calculator");
         Console.WriteLine("-------------------");
 
         // Step 1: Get first number
@@ -40,7 +40,7 @@ class Program
                     Console.WriteLine("Error: Cannot divide by zero.");
                 break;
             default:
-                Console.WriteLine("Invalid operator");
+                Console.WriteLine("Invalid operator"); //if an unvalid operator was picked
                 return;
         }
 
